@@ -1,0 +1,71 @@
+{
+    "name": "Bizimply",
+    "description": "Bizimply is the solution to employee time and attendance, scheduling, reporting and timecards with less paperwork and spreadsheets. Reduce costs by up to 10%",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1757-bizimply.jpg",
+    "tags": [
+        "api not found",
+        "calendaring",
+        "have api",
+        "schedules",
+        "teams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bizimply\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bizimply",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1757-bizimply.jpg",
+            "humanURL": "http:\/\/www.bizimply.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bizimply-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.bizimply.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.bizimply.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bizimply"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/bizimply"
+        },
+        {
+            "type": "Email",
+            "url": "support@bizimply.com"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.bizimply.com\/partner\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.bizimply.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Bizimply"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bizimply.com"
+        }
+    ]
+}
